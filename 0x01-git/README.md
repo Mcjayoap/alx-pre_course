@@ -1,1 +1,1 @@
-My second readme
+I am making progress learning coding
